@@ -1,0 +1,9 @@
+*.pyc
+.idea
+features
+features/*
+patches
+patches/*
+meta
+meta/*
+*.tar.gz
